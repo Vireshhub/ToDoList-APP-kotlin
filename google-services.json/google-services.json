@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673614276193",
+    "project_id": "one4u-4da27",
+    "storage_bucket": "one4u-4da27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673614276193:android:4836a2f2e9c2ace59aac20",
+        "android_client_info": {
+          "package_name": "com.todolist.one4u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673614276193-77qmkcpqm7221mdtkjnpsjfvlu66min1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmO9v0cazJHyf0NmavIcgtEiZo0hPzLUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673614276193-77qmkcpqm7221mdtkjnpsjfvlu66min1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
